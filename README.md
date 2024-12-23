@@ -22,7 +22,7 @@ Figma, Powerpoint
 <h3>⛏️Tools</h3>
 Git, VS Code, Figma
 
-<h4>Currently Learning</h4>h4?
+<h3>🧠Currently Learning</h3>
 React and electron
 
 <h2>🗂 Projects</h2>
