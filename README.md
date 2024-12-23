@@ -1,4 +1,4 @@
-***Hi there! 👋***
+<h1>***Hi there! 👋***</h1>
 
 Welcome to my GitHub profile! Here's a bit about me and what you can expect from my repositories:
 
@@ -11,25 +11,27 @@ Enthusiastic about technology, problem-solving, and continuous learning.
 
 In my free time, you’ll find me listening to music, playing chess, or cycling (I recently completed a 36km ride!).
 
-**🔧 Skills**
+<h2>🔧 Skills</h2>
 
-###Languages & Frameworks: HTML, CSS, JavaScript 
+<h3>Languages & Frameworks</h3>
+HTML, CSS, JavaScript 
 
-###Tools: Git, VS Code, Figma
+<h3>Tools</h3>
+Git, VS Code, Figma
 
 Currently Learning: React and electron
 
-**🗂 Projects**
+<h2>🗂 Projects</h2>
 
 Here are some of my notable projects:
 
-**🔨To Do list** 
+<h3>🔨To Do list</h3>
 A fast and quick website to store to do lists locally
 
-**😂Joke genarator website**
+<h3>😂Joke genarator website</h3>
 Website that genarates unique jokes on refresh
 
-**⚖️Unit convertor**
+<h3>⚖️Unit convertor</h3>
 A website that allows users to seemlessly convert between different units
 
 Feel free to explore my repositories for more projects!
