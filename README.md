@@ -13,8 +13,11 @@ In my free time, you’ll find me listening to music, playing chess, or cycling 
 
 <h2>🔧 Skills</h2>
 
-<h3>Languages & Frameworks</h3>
+<h3>Languages</h3>
 HTML, CSS, JavaScript 
+
+<h3>UI & Designing</h3>
+Figma, Powerpoint
 
 <h3>Tools</h3>
 Git, VS Code, Figma
