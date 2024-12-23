@@ -2,8 +2,7 @@
 
 Welcome to my GitHub profile! Here's a bit about me and what you can expect from my repositories:
 
-<span style="font-size:20px;">**👨‍💻 About Me**<span>
-
+<h1>**👨‍💻 About Me**</h1>
 Front-End Developer passionate about crafting beautiful and user-friendly interfaces.
 
 Exploring back-end development to become a versatile full-stack developer.
