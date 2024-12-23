@@ -1,8 +1,8 @@
-<h1>***Hi there! 👋***</h1>
+<h1>Hi there! 👋</h1>
 
 Welcome to my GitHub profile! Here's a bit about me and what you can expect from my repositories:
 
-<h1>**👨‍💻 About Me**</h1>
+<h1>👨‍💻 About Me</h1>
 Front-End Developer passionate about crafting beautiful and user-friendly interfaces.
 
 Exploring back-end development to become a versatile full-stack developer.
@@ -13,16 +13,17 @@ In my free time, you’ll find me listening to music, playing chess, or cycling 
 
 <h2>🔧 Skills</h2>
 
-<h3>Languages</h3>
+<h3>👨‍💻Languages</h3>
 HTML, CSS, JavaScript 
 
-<h3>UI & Designing</h3>
+<h3>🎭UI & Designing</h3>
 Figma, Powerpoint
 
-<h3>Tools</h3>
+<h3>⛏️Tools</h3>
 Git, VS Code, Figma
 
-Currently Learning: React and electron
+<h4>Currently Learning</h4>h4?
+React and electron
 
 <h2>🗂 Projects</h2>
 
