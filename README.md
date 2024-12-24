@@ -11,6 +11,8 @@ Enthusiastic about technology, problem-solving, and continuous learning.
 
 In my free time, you’ll find me listening to music, playing chess, or cycling (I recently completed a 36km ride!).
 
+<h2>💻Check out my Protfolio</h2>
+🔗link: https://ankanpal.netlify.app/
 <h2>🔧 Skills</h2>
 
 <h3>👨‍💻Languages</h3>
@@ -37,6 +39,7 @@ Website that genarates unique jokes on refresh
 
 <h3>⚖️Unit convertor</h3>
 A website that allows users to seemlessly convert between different units
-
 <br>
+<h4>
 Feel free to explore my repositories for more projects!
+</h4>
