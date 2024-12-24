@@ -11,8 +11,9 @@ Enthusiastic about technology, problem-solving, and continuous learning.
 
 In my free time, you’ll find me listening to music, playing chess, or cycling (I recently completed a 36km ride!).
 
-<h2>💻Check out my Protfolio</h2>
-🔗link: https://ankanpal.netlify.app/
+<h3>💻Check out my Protfolio</h3>
+🔗link https://ankanpal.netlify.app/
+
 <h2>🔧 Skills</h2>
 
 <h3>👨‍💻Languages</h3>
