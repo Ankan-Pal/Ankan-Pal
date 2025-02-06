@@ -26,7 +26,7 @@ In my free time, you’ll find me listening to music, playing chess, or cycling 
 -Git, VS Code, Figma
 
 <h3>🧠Currently Learning</h3>
--React and electron
+-React 
 
 <h2>🗂 Projects</h2>
 
